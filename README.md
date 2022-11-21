@@ -84,7 +84,7 @@
 <!-- Begin Youtube Buttons -->
 <!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
 <div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
+    <a href="https://www.youtube.com/channel/UCJjvxGqux42T9LQkYmIv7uw"  target="_blank">
         <img alt="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCq1qtlU3urNPLd5yIwhht1w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a> 
     <a href="https://www.youtube.com/channel/UCJjvxGqux42T9LQkYmIv7uw"  target="_blank">
